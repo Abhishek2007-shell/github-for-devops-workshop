@@ -1,0 +1,18 @@
+
+  Id CommandLine                            
+  -- -----------                            
+   1 try { . "c:\Users\Abhishek Pandey\Ap...
+   2 & "C:\Program Files\Python313\python...
+   3 git add testing.py                     
+   4 git status                             
+   5 git rm -- cached testing.py            
+   6 git status                             
+   7 git add .                              
+   8 git status                             
+   9 git rm -- cached git-command.txt       
+  10 git commit -m "Added testing file"     
+  11 git status                             
+  12 git restore testing.py                 
+  13 git status                             
+  14 git commit -m "Added testing file"     
+  15 git log                                
